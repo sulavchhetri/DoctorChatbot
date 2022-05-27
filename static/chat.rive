@@ -1,0 +1,14 @@
++ [*] (i am feeling sick|feeling sick|checkup|check|doctor) [*]
+- please enter your symptoms one by one 
+
++ [*] (not sick|feeling well) [*]
+- that's great
+
++ [*](no|submit my symptoms|submit|i dont have any symptoms|dont have any symptoms|no more symptoms)[*]
+- end
+
++ [*]       
+- symptoms
+
+
+
