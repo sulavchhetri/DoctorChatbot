@@ -8,8 +8,8 @@ used. </p>
 
 <h2>Requirement</h2>
 
-python<br>
-Riverscript<br>
+Python<br>
+Rivescript<br>
 Django<br>
 
 
